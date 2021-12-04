@@ -1,19 +1,25 @@
+Hi. My name is Maryam Hokmabadi. I like to play with datas and love machine learning concepts.
+
+
+- 🌱 I’m currently learning MachineLearning
+- 📫 How to reach me: mrym.hkmbdi@gmail.com
+- 😄 Pronouns: She/Her
+
+
+## Repositories
+
+#### Personal Projects
+
+- [MrymHkmbdi/Resume-Screening](https://github.com/MrymHkmbdi/Resume-Screening)
+- [MrymHkmbdi/MNIST](https://github.com/MrymHkmbdi/MNIST)
+- [MrymHkmbdi/django-weather](https://github.com/MrymHkmbdi/django-weather)
+- [MrymHkmbdi/DataStructures](https://github.com/MrymHkmbdi/DataStructures)
+
+
+#### Course Projects
+
+- [MrymHkmbdi/INFORMATIONRETRIEVAL](https://github.com/MrymHkmbdi/INFORMATIONRETRIEVAL)
+- [MrymHkmbdi/BrainWar](https://github.com/MrymHkmbdi/BrainWar)
+
+
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MrymHkmbdi&langs_count=5&theme=tokyonight)]()
-
-<!--### Hi there 👋
-
-
-<!--
-**MrymHkmbdi/MrymHkmbdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
