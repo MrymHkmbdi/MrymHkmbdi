@@ -1,9 +1,9 @@
 Hi. My name is Maryam Hokmabadi. I like to play with datas and love machine learning concepts.
 
 
-- 🌱 I’m currently learning MachineLearning
-- 📫 How to reach me: mrym.hkmbdi@gmail.com
-- 😄 Pronouns: She/Her
+- I’m currently learning MachineLearning
+- How to reach me: mrym.hkmbdi@gmail.com
+- Pronouns: She/Her
 
 
 ## Repositories
