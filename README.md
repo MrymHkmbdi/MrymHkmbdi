@@ -20,6 +20,7 @@ Hi. My name is Maryam Hokmabadi. I like to play with datas and love machine lear
 
 - [MrymHkmbdi/INFORMATIONRETRIEVAL](https://github.com/MrymHkmbdi/INFORMATIONRETRIEVAL)
 - [MrymHkmbdi/BrainWar](https://github.com/MrymHkmbdi/BrainWar)
+- [MrymHkmbdi/GenreDetector](https://github.com/MrymHkmbdi/GenreDetector)
 
 
 
